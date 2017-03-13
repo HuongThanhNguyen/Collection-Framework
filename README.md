@@ -57,3 +57,5 @@ public class CacheManager {
 
 ```
 
+### Note: A fork and a pull request are necessary
+
