@@ -24,7 +24,7 @@ For each implemention of the given interfaces, find a typical application for th
 
 **Minimum requirement**: 3 applications and code is required
 
-### E.g-1 A stack can be used to reverse a list of objects
+### E.g-1 A stack can be used to reverse a list of objects (code required)
 
 ### E.g-2 When we need to cache objects, ConcurrentHashMap can be used to exploit its concurrency capability.
 
