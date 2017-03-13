@@ -20,7 +20,7 @@ https://en.wikipedia.org/wiki/Abstract_data_type
 ## Exercise
 **Given these interfaces**: List, Set, Stack, Queue, Map
 
-For each implemention of the given interfaces, find a typical application for that implementation. Explanations may be asked for the choices of implementations.
+For each implemention of the given interfaces, find a typical application for that implementation. Explanation may be asked for the choice of implementation.
 
 **Minimum requirement**: 3 applications and code is required
 
