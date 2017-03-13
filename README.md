@@ -18,12 +18,15 @@ http://www.javatpoint.com/collections-in-java
 https://en.wikipedia.org/wiki/Abstract_data_type
 
 ## Exercise
-Given interfaces: List, Set, Map
+Given interfaces: List, Set, Stack, Queue, Map
 
-For each implemention of these interfaces, find a problem which we can use that implementation to solve in the most efficient way. 
+For each implemention of these interfaces, find a typical application for that implementation. Explanations may be asked for the choices of implementations.
 
-**Minimum requirement**: A problem/example should be provided for these classes -`ArrayList, LinkedList, HashSet, TreeSet, HashMap, LinkedHashMap, TreeMap`.
-For example: When we need to cache objects, ConcurrentHashMap can be used to exploit its concurrency capability.
+**Minimum requirement**: 3 applications and code is required
+
+### E.g-1 A stack can be used to reverse a list of objects
+
+### E.g-2 When we need to cache objects, ConcurrentHashMap can be used to exploit its concurrency capability.
 
 ```java
 public class CacheManager {
