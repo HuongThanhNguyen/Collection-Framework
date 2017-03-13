@@ -22,7 +22,7 @@ Given interfaces: List, Set, Map
 
 For each implemention of these interfaces, find a problem which we can use that implementation to solve in the most efficient way. 
 
-**Minimum requirement**: A problem/example should be provided for these classes -`ArrayList, LinkedList, HashSet, TreeSetHashMap, LinkedHashMap, TreeMap`
+**Minimum requirement**: A problem/example should be provided for these classes -`ArrayList, LinkedList, HashSet, TreeSet, HashMap, LinkedHashMap, TreeMap`
 
 For example: When we need to cache objects, ConcurrentHashMap can be used to exploit its concurrency capability.
 
