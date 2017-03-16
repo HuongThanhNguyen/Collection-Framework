@@ -1,8 +1,6 @@
 package arraylistandtreeset;
 
-import java.util.Comparator;
-
-public class Book implements Comparator<Book>, Comparable<Book> {
+public class Book implements Comparable<Book> {
 	private int id;
 	private String name;
 
@@ -28,10 +26,6 @@ public class Book implements Comparator<Book>, Comparable<Book> {
 	}
 
 	public Book() {
-	}
-
-	public int compare(Book o1, Book o2) {
-		return o1.id - o2.id;
 	}
 
 	public int compareTo(Book o) {
